@@ -1,2 +1,0 @@
-# NewsSearchEngine
-Created with CodeSandbox
